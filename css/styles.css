@@ -1,0 +1,10 @@
+#picture{
+  float: left;
+  height: 300px;
+  width: 400px;
+
+}
+.sidebar{
+  float: right;
+  background-color: grey;
+}
